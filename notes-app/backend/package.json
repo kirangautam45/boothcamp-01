@@ -2,6 +2,7 @@
   "name": "notes-app-backend",
   "version": "1.0.0",
   "description": "Backend for MERN notes app",
+  "license": "MIT",
   "main": "src/server.js",
   "type": "module",
   "scripts": {
